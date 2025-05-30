@@ -1,1 +1,2 @@
 scikit-learn==1.5.1
+plotly_express==0.4.1
